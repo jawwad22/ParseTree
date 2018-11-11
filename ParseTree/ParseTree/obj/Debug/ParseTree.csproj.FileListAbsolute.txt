@@ -1,0 +1,6 @@
+D:\LAST SEMESTER\C.C\ParseTree\ParseTree\bin\Debug\ParseTree.exe.config
+D:\LAST SEMESTER\C.C\ParseTree\ParseTree\bin\Debug\ParseTree.exe
+D:\LAST SEMESTER\C.C\ParseTree\ParseTree\bin\Debug\ParseTree.pdb
+D:\LAST SEMESTER\C.C\ParseTree\ParseTree\obj\Debug\ParseTree.csprojResolveAssemblyReference.cache
+D:\LAST SEMESTER\C.C\ParseTree\ParseTree\obj\Debug\ParseTree.exe
+D:\LAST SEMESTER\C.C\ParseTree\ParseTree\obj\Debug\ParseTree.pdb
